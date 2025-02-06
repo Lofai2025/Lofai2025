@@ -1,12 +1,11 @@
 # Hello world!
 * I'm Sergio
 * I am currently studying independently, studying to become a full-stack developer
-* and I'm looking for my first job opportunity. I dream of one day working in Japan <br> 
+* I'm looking for my first job opportunity. I dream of one day working in Japan <br> 
 
 <details>
    <summary> More about me</summary>
-       I'm 22 years old, I currently live in Brazil, and I've been studying since 2024
-  
+       I'm 22 years old, I currently live in Brazil, and I've been studying since 2024, My English is good, but I'm studying more every day.
 </details>
     
 
