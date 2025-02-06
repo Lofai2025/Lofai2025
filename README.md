@@ -1,5 +1,5 @@
 # Hello world!
-✪ I'm Sergio
+✪ Hi. I'm Sergio! A passionate Data Science student from Brazil
 <br>
 ✪ I am currently studying independently, studying to become a full-stack developer
 <br>
