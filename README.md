@@ -6,7 +6,7 @@
 ✪ Estou a procura do meu primeiro emprego na área.<br> 
 
 <details>
-   <summary> More about me</summary>
+   <summary> Mais sobre mim</summary>
 ✪   Tenho 21 anos, atualmente moro no Brasil e estudo desde 2024, meu inglês é bom, mas estou estudando mais a cada dia.
 Tenho experiência em HTML/CSS e JavaScript.
 </details>
