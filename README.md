@@ -1,14 +1,14 @@
 # Hello world!
-✪ Hi. I'm Sergio! A passionate Data Science student from Brazil
+✪ Olá, me chamo Sergio
 <br>
-✪ I am currently studying independently, studying to become a full-stack developer
+✪ Estudo pragramação de forma autodidata, para me tornar um desenvolvedor full stack.
 <br>
-✪ I'm looking for my first job opportunity. I dream of one day working in Japan <br> 
+✪ Estou a procura do meu primeiro emprego na área.<br> 
 
 <details>
    <summary> More about me</summary>
-✪   I'm 22 years old, I currently live in Brazil, and I've been studying since 2024, My English is good, but I'm studying more every day.
-   I have experience in HTML/CSS and JavaScript.
+✪   Tenho 21 anos, atualmente moro no Brasil e estudo desde 2024, meu inglês é bom, mas estou estudando mais a cada dia.
+Tenho experiência em HTML/CSS e JavaScript.
 </details>
     
 
